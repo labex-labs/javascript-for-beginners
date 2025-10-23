@@ -15,22 +15,22 @@ Aprenda os fundamentos da programação JavaScript, desde a sintaxe básica até
 
 ## Exercícios
 
-|   Índice | Nome                                           | Dificuldade   | Prática                                                                                                                         |
-|----------|------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🆓 Introdução e Incorporação de JavaScript  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-javascript-introduction-and-embedding-598194'>Iniciar Lab</a> |
-|       02 | 📖 🆓 Variáveis e Tipos de Dados em JavaScript | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-javascript-variables-and-data-types-598198'>Iniciar Lab</a>   |
-|       03 | 📖 🆓 Operadores e Expressões JavaScript       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-javascript-operators-and-expressions-598197'>Iniciar Lab</a>  |
-|       04 | 📖 🆓 Instruções Condicionais em JavaScript    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-javascript-conditional-statements-598190'>Iniciar Lab</a>     |
-|       05 | 📖 🆓 Loops em JavaScript                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-javascript-loops-598195'>Iniciar Lab</a>                      |
-|       06 | 📖  Funções JavaScript                         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-javascript-functions-598193'>Iniciar Lab</a>                  |
-|       07 | 📖  Arrays em JavaScript                       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-javascript-arrays-598189'>Iniciar Lab</a>                     |
-|       08 | 📖  Objetos JavaScript                         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-javascript-objects-598196'>Iniciar Lab</a>                    |
-|       09 | 📖  Manipulação do DOM com JavaScript          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-javascript-dom-manipulation-598191'>Iniciar Lab</a>           |
-|       10 | 📖  Manipulação de Eventos em JavaScript       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-javascript-event-handling-598192'>Iniciar Lab</a>             |
+|   Índice | Nome                                           | Dificuldade   | Prática                                                                                                                                                    |
+|----------|------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🧩 🆓 Introdução e Incorporação de JavaScript  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/javascript-javascript-introduction-and-embedding-598194?course=javascript-for-beginners'>Iniciar Lab</a> |
+|       02 | 🧩 🆓 Variáveis e Tipos de Dados em JavaScript | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/javascript-javascript-variables-and-data-types-598198?course=javascript-for-beginners'>Iniciar Lab</a>   |
+|       03 | 🧩 🆓 Operadores e Expressões JavaScript       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/javascript-javascript-operators-and-expressions-598197?course=javascript-for-beginners'>Iniciar Lab</a>  |
+|       04 | 🧩 🆓 Instruções Condicionais em JavaScript    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/javascript-javascript-conditional-statements-598190?course=javascript-for-beginners'>Iniciar Lab</a>     |
+|       05 | 🧩 🆓 Loops em JavaScript                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/javascript-javascript-loops-598195?course=javascript-for-beginners'>Iniciar Lab</a>                      |
+|       06 | 🧩  Funções JavaScript                         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/javascript-javascript-functions-598193?course=javascript-for-beginners'>Iniciar Lab</a>                  |
+|       07 | 🧩  Arrays em JavaScript                       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/javascript-javascript-arrays-598189?course=javascript-for-beginners'>Iniciar Lab</a>                     |
+|       08 | 🧩  Objetos JavaScript                         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/javascript-javascript-objects-598196?course=javascript-for-beginners'>Iniciar Lab</a>                    |
+|       09 | 🧩  Manipulação do DOM com JavaScript          | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/javascript-javascript-dom-manipulation-598191?course=javascript-for-beginners'>Iniciar Lab</a>           |
+|       10 | 🧩  Manipulação de Eventos em JavaScript       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/javascript-javascript-event-handling-598192?course=javascript-for-beginners'>Iniciar Lab</a>             |
 
 ## Sobre LabEx
 
-LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, LabEx oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
+[LabEx](https://labex.io) é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, [LabEx](https://labex.io) oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 ## Mais
 
