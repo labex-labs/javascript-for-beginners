@@ -15,22 +15,22 @@
 
 ## 演習
 
-|   インデックス | 名前                              | 難易度   | 練習                                                                                                                           |
-|----------------|-----------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 🆓 JavaScript の紹介と埋め込み | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/javascript-javascript-introduction-and-embedding-598194'>ラボを開始</a> |
-|             02 | 📖 🆓 JavaScript 変数とデータ型   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/javascript-javascript-variables-and-data-types-598198'>ラボを開始</a>   |
-|             03 | 📖 🆓 JavaScript の演算子と式     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/javascript-javascript-operators-and-expressions-598197'>ラボを開始</a>  |
-|             04 | 📖 🆓 JavaScript 条件分岐文       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/javascript-javascript-conditional-statements-598190'>ラボを開始</a>     |
-|             05 | 📖 🆓 JavaScript ループ           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/javascript-javascript-loops-598195'>ラボを開始</a>                      |
-|             06 | 📖  JavaScript 関数               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/javascript-javascript-functions-598193'>ラボを開始</a>                  |
-|             07 | 📖  JavaScript 配列               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/javascript-javascript-arrays-598189'>ラボを開始</a>                     |
-|             08 | 📖  JavaScript オブジェクト       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/javascript-javascript-objects-598196'>ラボを開始</a>                    |
-|             09 | 📖  JavaScript DOM 操作           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/javascript-javascript-dom-manipulation-598191'>ラボを開始</a>           |
-|             10 | 📖  JavaScript イベント処理       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/javascript-javascript-event-handling-598192'>ラボを開始</a>             |
+|   インデックス | 名前                              | 難易度   | 練習                                                                                                                                                      |
+|----------------|-----------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|             01 | 🧩 🆓 JavaScript の紹介と埋め込み | 初級     | <a target='_blank' href='https://labex.io/ja/labs/javascript-javascript-introduction-and-embedding-598194?course=javascript-for-beginners'>ラボを開始</a> |
+|             02 | 🧩 🆓 JavaScript 変数とデータ型   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/javascript-javascript-variables-and-data-types-598198?course=javascript-for-beginners'>ラボを開始</a>   |
+|             03 | 🧩 🆓 JavaScript の演算子と式     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/javascript-javascript-operators-and-expressions-598197?course=javascript-for-beginners'>ラボを開始</a>  |
+|             04 | 🧩 🆓 JavaScript 条件分岐文       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/javascript-javascript-conditional-statements-598190?course=javascript-for-beginners'>ラボを開始</a>     |
+|             05 | 🧩 🆓 JavaScript ループ           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/javascript-javascript-loops-598195?course=javascript-for-beginners'>ラボを開始</a>                      |
+|             06 | 🧩  JavaScript 関数               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/javascript-javascript-functions-598193?course=javascript-for-beginners'>ラボを開始</a>                  |
+|             07 | 🧩  JavaScript 配列               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/javascript-javascript-arrays-598189?course=javascript-for-beginners'>ラボを開始</a>                     |
+|             08 | 🧩  JavaScript オブジェクト       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/javascript-javascript-objects-598196?course=javascript-for-beginners'>ラボを開始</a>                    |
+|             09 | 🧩  JavaScript DOM 操作           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/javascript-javascript-dom-manipulation-598191?course=javascript-for-beginners'>ラボを開始</a>           |
+|             10 | 🧩  JavaScript イベント処理       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/javascript-javascript-event-handling-598192?course=javascript-for-beginners'>ラボを開始</a>             |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
