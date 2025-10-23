@@ -15,22 +15,22 @@
 
 ## 연습
 
-|   인덱스 | 이름                                | 난이도   | 연습                                                                                                                          |
-|----------|-------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🆓 JavaScript 소개 및 포함 방법  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/javascript-javascript-introduction-and-embedding-598194'>실습 시작</a> |
-|       02 | 📖 🆓 JavaScript 변수와 데이터 타입 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/javascript-javascript-variables-and-data-types-598198'>실습 시작</a>   |
-|       03 | 📖 🆓 JavaScript 연산자 및 표현식   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/javascript-javascript-operators-and-expressions-598197'>실습 시작</a>  |
-|       04 | 📖 🆓 JavaScript 조건문             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/javascript-javascript-conditional-statements-598190'>실습 시작</a>     |
-|       05 | 📖 🆓 JavaScript 루프               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/javascript-javascript-loops-598195'>실습 시작</a>                      |
-|       06 | 📖  JavaScript 함수                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/javascript-javascript-functions-598193'>실습 시작</a>                  |
-|       07 | 📖  JavaScript 배열                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/javascript-javascript-arrays-598189'>실습 시작</a>                     |
-|       08 | 📖  JavaScript 객체                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/javascript-javascript-objects-598196'>실습 시작</a>                    |
-|       09 | 📖  JavaScript DOM 조작             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/javascript-javascript-dom-manipulation-598191'>실습 시작</a>           |
-|       10 | 📖  JavaScript 이벤트 처리          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/javascript-javascript-event-handling-598192'>실습 시작</a>             |
+|   인덱스 | 이름                                | 난이도   | 연습                                                                                                                                                     |
+|----------|-------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🧩 🆓 JavaScript 소개 및 포함 방법  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/javascript-javascript-introduction-and-embedding-598194?course=javascript-for-beginners'>실습 시작</a> |
+|       02 | 🧩 🆓 JavaScript 변수와 데이터 타입 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/javascript-javascript-variables-and-data-types-598198?course=javascript-for-beginners'>실습 시작</a>   |
+|       03 | 🧩 🆓 JavaScript 연산자 및 표현식   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/javascript-javascript-operators-and-expressions-598197?course=javascript-for-beginners'>실습 시작</a>  |
+|       04 | 🧩 🆓 JavaScript 조건문             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/javascript-javascript-conditional-statements-598190?course=javascript-for-beginners'>실습 시작</a>     |
+|       05 | 🧩 🆓 JavaScript 루프               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/javascript-javascript-loops-598195?course=javascript-for-beginners'>실습 시작</a>                      |
+|       06 | 🧩  JavaScript 함수                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/javascript-javascript-functions-598193?course=javascript-for-beginners'>실습 시작</a>                  |
+|       07 | 🧩  JavaScript 배열                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/javascript-javascript-arrays-598189?course=javascript-for-beginners'>실습 시작</a>                     |
+|       08 | 🧩  JavaScript 객체                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/javascript-javascript-objects-598196?course=javascript-for-beginners'>실습 시작</a>                    |
+|       09 | 🧩  JavaScript DOM 조작             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/javascript-javascript-dom-manipulation-598191?course=javascript-for-beginners'>실습 시작</a>           |
+|       10 | 🧩  JavaScript 이벤트 처리          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/javascript-javascript-event-handling-598192?course=javascript-for-beginners'>실습 시작</a>             |
 
 ## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
